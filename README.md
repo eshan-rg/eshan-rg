@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Gujarathi</h1>
 <h3 align="center">I am a final-year undergraduate student in the discipline of Computer Science and Engineering @ IIT Gandhinagar. My research interests include Applied ML, Deep Learning, Bayesian Learning and Computer Vision.</h3>
 
-- 🌱 I’m currently learning **Probablistic Machine Learning and Optimizations for Machine Learning**
+- 🌱 I’m currently learning **Probablistic Machine Learning** and **Optimizations for Machine Learning**
 
 - 📫 How to reach me **eshan.rg@iitgn.ac.in**
 
