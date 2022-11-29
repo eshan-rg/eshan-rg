@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **eshan.rg@iitgn.ac.in**
 
-- 📄 Know about my experiences (to be updated) [here](https://drive.google.com/file/d/1OrAwmGsGnoDBgUH0FPjucY5MMyiNuZiQ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1U31p88SFRMWIC-s__78u8m21S62cx556/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
