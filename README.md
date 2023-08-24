@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshan Gujarathi</h1>
-<h3 align="center">I am a Post Baccalaureate Fellow at the Robert Bosch Center for Data Science and Artificial Intelligence at IIT Madras, where I am working under the guidance of Prof. Balaraman Ravindran. I recently completed my B.Tech with honours in Computer Science and Engineering from IIT Gandhinagar.
+<h3 align="center">I am a Post Baccalaureate Fellow at the Robert Bosch Center for Data Science and Artificial Intelligence at IIT Madras, where I am working under the guidance of Prof. Balaraman Ravindran. I recently completed my B.Tech with honours in Comp Sci and Eng from IIT Gandhinagar.
   
   My research interests include Applied ML, Deep Learning, Bayesian Learning and Computer Vision.</h3>
 
